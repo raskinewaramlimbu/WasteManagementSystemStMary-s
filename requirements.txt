@@ -1,0 +1,4 @@
+sqlalchemy==2.0.49
+pymongo==4.17.0
+matplotlib==3.10.9
+pytest==9.0.3
